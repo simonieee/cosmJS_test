@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "experiment": "ts-node experiment.ts"
+    "experiment": "ts-node experiment.ts",
+    "experiment-local": "ts-node experiment-local.ts"
   },
   "keywords": [],
   "author": "",
